@@ -13,7 +13,15 @@ A simple and attractive React app to search for recipes using the Spoonacular AP
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Screenshot & Video
+
+![App Screenshot](img1.png)
+
+![App Screenshot](img2.png)
+
+
+▶️ [Watch Demo Video](working.mp4)
+
 
 ---
 
@@ -24,4 +32,8 @@ Vite
 
 Spoonacular API
 
+---
+
 ## 📦 Deployment
+
+https://recipe-finder-7fyl.vercel.app/
